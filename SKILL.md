@@ -1,5 +1,6 @@
 ---
 name: ai-writing-assistant
+homepage: https://github.com/ryan-wuxl/ai-content-writer
 description: AI 智能写作助手 - 支持多平台内容创作，包括公众号、小红书、知乎、LinkedIn 等风格。提供 AI 查重、SEO 优化、改写润色等功能，一键生成高质量内容。
 homepage: https://github.com/openclaw/ai-writing-assistant
 metadata:
